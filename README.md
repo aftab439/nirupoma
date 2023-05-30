@@ -1,7 +1,7 @@
 <!--markdown tutorial-->
 # this is heading1
 ## this is heading2
-### this is heading3
+
 
 <br>
 
@@ -23,7 +23,7 @@
 
  ## dtrikethrough
  price ~~100tk~~  
- price 80 tk
+ price 50 tk
 
  <br>
 
@@ -37,7 +37,11 @@ this is second line
 ```html
 <html>
     <head> </head>
-    <body></body>
+    <body>
+        <div>
+            <p><p>    
+         <div>
+    </body>
 </html>
 ```
 
@@ -55,6 +59,8 @@ console.log("hello");
     3. item3
 3. item3
 4. item4
+5. item5
+6. item6
 
 ## unorderd list
 - item1
@@ -62,7 +68,9 @@ console.log("hello");
     - item1
     - item2
     - item3
-- item3
+- item4
+- item5
+- item6
 
 ## task list
 - [x] task1
@@ -79,6 +87,11 @@ http://www.google.com
 
 ## adding image
 
+<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma"/>
+<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma"/>
+<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma"/><img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma"/>
+<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma"/>
+<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma"/>
 <img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma"/>
 <img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma"/>
 
