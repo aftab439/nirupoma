@@ -87,13 +87,13 @@ http://www.google.com
 
 ## adding image
 
-<!--<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma"/>
 <img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma"/>
-<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma"/>-->
+<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma"/>
+<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma"/>
 
 
  
-![nirupma](nirupoma.jpg|width=100px)
+<!--![nirupma](nirupoma.jpg)-->
 ## Adding table
 
 | Name | Email | 
