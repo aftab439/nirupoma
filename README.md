@@ -87,8 +87,8 @@ http://www.google.com
 
 ## adding image
 
-<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma" style ="display:inline;"/>
-<p>this is nirupoma. she is so buitifull girl.
+<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma" style ="display:inline;float:left"/>
+<p>this is nirupoma. she is so buitifull girl.<p>
 <img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma" style ="display:inline;"/>
 <img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma" style ="display:inline;"/>
 
