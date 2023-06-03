@@ -86,10 +86,11 @@ http://www.google.com
 [google](google)
 
 ## adding image
-
-<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma" style ="display:inline;float:left"/>
-<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma" style ="display:inline;float:right"/>
-<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma" style ="display:inline;float:right"/>
+<div style="display:inline">
+<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma" style ="float:left"/>
+<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma" style ="float:right"/>
+<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma" style ="float:right"/>
+</div>
 
 
 
