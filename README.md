@@ -29,7 +29,7 @@
 
  ## inline code
 `this is first line`
-this is second line
+`this is second line`
 
 <br>
 
@@ -87,17 +87,13 @@ http://www.google.com
 
 ## adding image
 
+<!--<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma"/>
 <img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma"/>
-<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma"/>
-<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma"/><img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma"/>
-<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma"/>
-<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma"/>
-<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma"/>
-<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma"/>
+<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma"/>-->
+
 
  
-
-
+![nirupma](nirupoma.jpg|width=100px)
 ## Adding table
 
 | Name | Email | 
