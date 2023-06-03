@@ -87,9 +87,12 @@ http://www.google.com
 
 ## adding image
 
-<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma"/>
-<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma"/>
-<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma"/>
+<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma" style ="display:inline;"/>
+
+<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma" style ="display:inline;"/>
+
+<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma" style ="display:inline;"/>
+
 
 
  
