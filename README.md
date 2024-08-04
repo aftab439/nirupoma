@@ -86,11 +86,7 @@ http://www.google.com
 [google](google)
 
 ## adding image
-<div style="display:inline">
-<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma"/>
-<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma"/>
-<img src ="nirupoma.jpg" width="150px" height="200px" title="nirupoma"/>
-</div>
+
 
 
 
