@@ -86,11 +86,6 @@ http://www.google.com
 [google](google)
 
 ## adding image
-
-
-
-
- 
 <!--![nirupma](nirupoma.jpg)-->
 ## Adding table
 
